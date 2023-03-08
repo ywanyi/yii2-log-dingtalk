@@ -18,5 +18,11 @@
         "psr-4": {
             "ywanyi\\log\\": "src"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "git@github.com:ywanyi/yii2-log-dingtalk.git"
+        }
+    ]
 }
